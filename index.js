@@ -1,1 +1,3 @@
-const customerName = 'bob';
+function customerName() {
+  return 'bob';
+}
